@@ -1,3 +1,5 @@
+This project was worked by following class https://www.linkedin.com/learning/vue-js-essential-training-2
+
 # vue-essentials
 
 ## Project setup
